@@ -1,0 +1,9 @@
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\bin\Debug\Kinect_project.exe.config
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\Kinect_project.csprojResolveAssemblyReference.cache
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\MainWindow.baml
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\MainWindow.g.cs
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\App.g.cs
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\Kinect_project_MarkupCompile.cache
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\Kinect_project.g.resources
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\Kinect_project.Properties.Resources.resources
+C:\Users\Abhinav\Desktop\Kinect_project\Kinect_project\obj\Debug\Kinect_project.csproj.GenerateResource.Cache

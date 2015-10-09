@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DynamicDataDisplaySample">
+</Property><Property Name="File di soluzione" Value="c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample.sln">
+</Property><Property Name="Date" Value="martedì 3 aprile 2012">
+</Property><Property Name="Time" Value="21:38:35">
+</Property></Properties><Event ErrorLevel="0" Project="DynamicDataDisplay" Source="DynamicDataDisplay\DynamicDataDisplay.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="DynamicDataDisplay" Source="DynamicDataDisplay\DynamicDataDisplay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DynamicDataDisplay" Source="DynamicDataDisplay\DynamicDataDisplay.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

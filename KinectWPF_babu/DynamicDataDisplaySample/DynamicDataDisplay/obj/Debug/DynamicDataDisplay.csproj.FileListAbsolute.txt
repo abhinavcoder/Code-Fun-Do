@@ -1,0 +1,100 @@
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.dll
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\Debug\bin\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.cache
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.lref
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Axes\AxisControlStyle.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\RangeHighlightStyle.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Common\PlotterStyle.baml
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.g.resources
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.resources
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.ru-ru.resources
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.dll
+C:\Users\mesta\Documents\Visual Studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.pdb
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.pdb
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\Debug\bin\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.cache
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.lref
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Axes\AxisControlStyle.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\RangeHighlightStyle.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Common\PlotterStyle.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.g.resources
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.resources
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.ru-ru.resources
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.csproj.GenerateResource.Cache
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.csprojResolveAssemblyReference.cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\MagnifyingGlass.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay_MarkupCompile.lref
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\Debug\bin\DynamicDataDisplay.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\Debug\bin\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Isolines\IsolineTrackingGraph.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Legend.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\LineLegendItem.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Axes\AxisControlStyle.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\AboutWindow.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Navigation\CursorCoordinateGraph.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\DraggablePoint.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\Shapes\RangeHighlightStyle.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Charts\ViewportListView.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Common\PlotterStyle.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.g.resources
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.resources
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\Microsoft.Research.DynamicDataDisplay.Properties.Resources.ru-ru.resources
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.csproj.GenerateResource.Cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplay\obj\Debug\DynamicDataDisplay.pdb

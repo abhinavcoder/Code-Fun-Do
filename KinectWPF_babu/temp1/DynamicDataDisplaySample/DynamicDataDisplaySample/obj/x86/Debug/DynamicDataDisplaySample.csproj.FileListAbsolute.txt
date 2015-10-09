@@ -1,0 +1,62 @@
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.exe
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.baml
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\App.g.cs
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample_MarkupCompile.cache
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.g.resources
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.Properties.Resources.resources
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.exe
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.dll
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.pdb
+c:\users\mesta\documents\visual studio 2010\Projects\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.exe
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.pdb
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.exe
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.pdb
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.baml
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\App.g.cs
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample_MarkupCompile.cache
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.g.resources
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.Properties.Resources.resources
+C:\Users\SANDEEP\Desktop\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csproj.GenerateResource.Cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.exe
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.exe
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplaySample.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.baml
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\App.g.cs
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample_MarkupCompile.cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.g.resources
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.Properties.Resources.resources
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csproj.GenerateResource.Cache
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.WinForms.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.WPF.dll
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.WinForms.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.WPF.pdb
+C:\Users\shreygarg\Desktop\graph\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.exe
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.pdb
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.baml
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\App.g.cs
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample_MarkupCompile.cache
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.g.resources
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.Properties.Resources.resources
+C:\Users\Abhinav\Desktop\KinectWPF_babu\temp1\DynamicDataDisplaySample\DynamicDataDisplaySample\obj\x86\Debug\DynamicDataDisplaySample.csproj.GenerateResource.Cache
